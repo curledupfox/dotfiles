@@ -39,9 +39,9 @@ packages:
   - name: starship/starship@v1.21.1
   - name: go-task/task@v3.40.1
   - name: mikefarah/yq@v4.44.6
-  - name: zellij-org/zellij@v0.41.2
   - name: ajeetdsouza/zoxide@v0.9.6
   - name: atuinsh/atuin@v18.4.0
   - name: nushell/nushell@0.101.0
   - name: hadolint/hadolint@v2.12.0
   - name: siderolabs/talos@v1.9.5
+  - name: zellij-org/zellij@v0.42.2
